@@ -1,4 +1,5 @@
-// alert("333333333");
+"use strict";
+exports.__esModule = true;
  var hello = require('./helloModule');
 
  hello();
