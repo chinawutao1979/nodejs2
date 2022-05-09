@@ -1,5 +1,5 @@
 var sayHi = function () {
-  alert("aaaaaaaaaaaaaa");
+  document.getElementById("myId").innerHTML="tttttttttttttt";
   console.log("hi");
 };
 
